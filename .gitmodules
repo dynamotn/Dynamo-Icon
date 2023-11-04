@@ -1,0 +1,6 @@
+[submodule "src"]
+	path = src/papirus
+	url = git@github.com:PapirusDevelopmentTeam/papirus-icon-theme.git
+[submodule "scripts"]
+	path = src/catppuccin
+	url = git@github.com:catppuccin/papirus-folders.git
